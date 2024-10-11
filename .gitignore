@@ -1,4 +1,1 @@
-*.db
-*.log
-target/
-bin/
+.ipynb_checkpoints/
